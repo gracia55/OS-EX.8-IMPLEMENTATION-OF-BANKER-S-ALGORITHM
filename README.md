@@ -28,6 +28,11 @@ To write a C program to implement Bankers Algorithm to avoid Deadlock.
 11: If single request is lesser than or equal to available if true means arrive to new state.
 
 12: Print the sequence if it is in safe state or print not in safe state.
+
+
+
+
+
 # PROGRAM:
 ```
 #include <stdio.h>
